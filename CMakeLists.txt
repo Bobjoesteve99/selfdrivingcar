@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(SelfDrivingCar)
+project(selfdrivingcar)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
